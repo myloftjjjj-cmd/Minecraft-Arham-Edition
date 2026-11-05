@@ -1,0 +1,6 @@
+{
+  "name": "ARHAM-MC: 3D Voxel Sandbox",
+  "description": "ARHAM-MC is a high-performance 3D voxel sandbox game inspired by Minecraft Java Edition featuring procedural infinite worlds, survival & creative modes, crafting, mobs, and a real 💎 Mods Marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
